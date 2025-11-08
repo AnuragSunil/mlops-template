@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.env
+venv/
+.venv/
+env/
+.conda/
+
+# Data & Models
+data/
+models/
+*.pkl
+*.h5
+*.ckpt
+*.onnx
+.dvc/
+mlruns/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Docker
+*.pid
+*.tar
